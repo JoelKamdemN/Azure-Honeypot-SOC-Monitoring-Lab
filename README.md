@@ -16,19 +16,19 @@ Goal: Build a defensive workflowâ€”from attack visibility to automated responseâ
 
 ### Skills Learned
 
-- Advanced understanding of SIEM concepts and practical application with Sentinel.
+- Expanding hands-on experience with Microsoft Azure's security infrastructure and services.
+- Understanding of SIEM concepts and practical application with Sentinel.
 - Proficiency in analyzing and interpreting network logs.
 - Ability to generate and recognize attack signatures and patterns.
 - Enhanced knowledge of network protocols and security vulnerabilities.
 - Development of critical thinking and problem-solving skills in cybersecurity.
-- Expanding hands-on experience with Microsoft Azure's security infrastructure and services.
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
 
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
